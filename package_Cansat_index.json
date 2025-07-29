@@ -17,7 +17,7 @@
             "online": "https://cansat.kaist.ac.kr"
           },
           "url": "https://github.com/ljh-138/cansat_file/blob/main/package_Cansat_v1.8.19.zip",
-          "archiveFileName": "package_Cansat_v1.8.3.zip",
+          "archiveFileName": "package_Cansat_v1.8.19.zip",
           "checksum": "SHA-256:b4e7a1d5a1e0a9fdd83786c88122d5b30f80961e2c5dbe4cb208021d7e1d2552",
           "size": "147120",
           "boards": [
